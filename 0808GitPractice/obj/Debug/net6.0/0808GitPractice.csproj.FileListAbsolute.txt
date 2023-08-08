@@ -1,0 +1,15 @@
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\bin\Debug\net6.0\0808GitPractice.exe
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\bin\Debug\net6.0\0808GitPractice.deps.json
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\bin\Debug\net6.0\0808GitPractice.runtimeconfig.json
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\bin\Debug\net6.0\0808GitPractice.dll
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\bin\Debug\net6.0\0808GitPractice.pdb
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.csproj.AssemblyReference.cache
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.AssemblyInfoInputs.cache
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.AssemblyInfo.cs
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.csproj.CoreCompileInputs.cache
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.dll
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\refint\0808GitPractice.dll
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.pdb
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\0808GitPractice.genruntimeconfig.cache
+C:\Users\tian0139\source\repos\0808GitPractice\0808GitPractice\obj\Debug\net6.0\ref\0808GitPractice.dll
